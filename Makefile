@@ -1,5 +1,5 @@
 all:
-	@echo targets: install
+	@echo targets: install, uninstall, examples
 
 MISCLATEXDIR=$(HOME)/texmf/tex/latex/misc
 
